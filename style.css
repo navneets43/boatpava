@@ -38,9 +38,16 @@ body {
 }
 .btn2 {
   transform: translateX(25%);
+  transform: translateY(40%);
 }
 .btn3 {
   transform: translateY(-98%);
+}
+.abc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20em;
 }
 .user {
   transform: translateX(94%);
